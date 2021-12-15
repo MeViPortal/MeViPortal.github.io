@@ -1,6 +1,6 @@
 # Site settings
 title: MeVi Portal Games
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: 'An aspiring Video Game Developer'
 url: 'https://meviportal.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,12 +8,12 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
+  name: 'MeVi Portal'
+  email: meviportal@gmail.com
+  twitter_username: mevi_portal
   facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+#  github_username:  joshgerdes
+#  linkedin_username:  joshgerdes
 
 defaults:
   -
