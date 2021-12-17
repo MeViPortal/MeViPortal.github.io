@@ -152,7 +152,7 @@ pre.highlight code,
 
 
 .post-list {
-  width: 48%;
+  width: 100%;
   max-width: 100%;
   margin: 0 0.9% 1.5%;
   display: -webkit-box;
@@ -194,4 +194,5 @@ pre.highlight code,
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
+  display: inline-block;
 }
